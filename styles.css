@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('https://raw.githubusercontent.com/marlinmack/PizzaandPeople/main/assets/background.jpg') center/cover no-repeat;
+    background: url('./assets/background.jpg') center/cover no-repeat;
     background-color: black;
 }
 
